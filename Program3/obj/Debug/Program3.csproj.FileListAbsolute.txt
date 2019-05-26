@@ -1,0 +1,6 @@
+c:\users\juans\documents\visual studio 2013\Projects\Program3\Program3\bin\Debug\Program3.exe.config
+C:\Users\juans\Documents\Visual Studio 2013\Projects\Program3\Program3\bin\Debug\Program3.exe
+C:\Users\juans\Documents\Visual Studio 2013\Projects\Program3\Program3\bin\Debug\Program3.pdb
+C:\Users\juans\Documents\Visual Studio 2013\Projects\Program3\Program3\obj\Debug\Program3.exe
+C:\Users\juans\Documents\Visual Studio 2013\Projects\Program3\Program3\obj\Debug\Program3.pdb
+C:\Users\juans\documents\visual studio 2013\Projects\Program3\Program3\obj\Debug\Program3.csprojResolveAssemblyReference.cache
